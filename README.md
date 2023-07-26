@@ -15,8 +15,10 @@ During the last few decades, Western societies have undergone substantial social
 
 ## Folder structure:
 
-* **data_cleaning.do** - Script to clean the data, select the variable of interest, and save the cleaned data as *data.dta*. The raw European Social Survey (ESS) data used in this study are publicly available and can be downloaded [here](https://ess-search.nsd.no/en/study/bdc7c350-1029-4cb3-9d5e-53f668b8fa74) 
+**Note:** The raw European Social Survey (ESS) data used in this study are publicly available and can be downloaded [here](https://ess-search.nsd.no/en/study/bdc7c350-1029-4cb3-9d5e-53f668b8fa74). 
+
+* **data_cleaning.do** - Script to clean the data, select the variable of interest, and save the cleaned data as *data.dta*. 
    
 * **sequence_analysis.R** - Script to run the Sequence Analysis and Clustering to replicate Figures 1, 2, 3, A1, A2, A3 and Tables 4, A1, A4. Takes as input *data.dta* and returns as output *data_cluster_optimal_matching.dta* and *data_cluster_optimal_matching_gender_specific.dta*
 
-* **regressions_analyses.do** - Script to compute the regression analyses and replicate Figures 4, A4 and Tables 5, A2, A3, A5, A6. Takes as input *data.dta*, *data_cluster_optimal_matching.dta*, and *data_cluster_optimal_matching_gender_specific.dta*. 
+* **regressions_analyses.do** - Script to compute the regression analyses to replicate Figures 4, A4 and Tables 5, A2, A3, A5, A6. Takes as input *data.dta*, *data_cluster_optimal_matching.dta*, and *data_cluster_optimal_matching_gender_specific.dta*. 
