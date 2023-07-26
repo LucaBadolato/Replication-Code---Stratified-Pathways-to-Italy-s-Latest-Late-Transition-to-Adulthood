@@ -5,7 +5,7 @@
 
 * Title: Stratified Pathways to Italy’s “Latest-Late” Transition to Adulthood
 
-* Author: Badolato Luca (badolato.3@osu.edu), Department of Sociology and Institue for Population Research, The Ohio State University
+* Author: Badolato Luca (badolato.3@osu.edu), Department of Sociology and Institute for Population Research, The Ohio State University
 
 * Journal: Advances in Life Course Research
 
