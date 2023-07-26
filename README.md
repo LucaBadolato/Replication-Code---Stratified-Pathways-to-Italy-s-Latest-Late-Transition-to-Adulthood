@@ -1,4 +1,4 @@
-# Replication material for Stratified Pathways to Italy’s “Latest-Late” Transition to Adulthood
+# Replication material for *Stratified Pathways to Italy’s “Latest-Late” Transition to Adulthood*
 
 **Date of the last update**: 2023-07-26
 
