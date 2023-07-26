@@ -15,4 +15,4 @@ During the last few decades, Western societies have undergone substantial social
 
 ## Folder structure:
 
-* **data_cleaning.do** - Script to clean the data, select the variable of interest, and save the cleaned data as data.dta
+* **data_cleaning.do** - Script to clean the data, select the variable of interest, and save the cleaned data as *data.dta*
